@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning python and chatbots
 - 💞️ I’m looking to collaborate on any thing revolutional and cool
 - 📫 How to reach me whats app @ +2348166545346
+- 💞️ I am now a flutter dev
+- 💞️ I am also good with flutterflow
+- 💞️ I am currently searching for a remote job
 
 <!---
 danoritic/danoritic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
