@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danoritic
-- 👀 I’m interested in chatbots, python, automation of machines and processes, app and game development 
+- 👀 I’m interested in chatbots, python,flutter, automation of machines and processes, app and game development 
 - 🌱 I’m currently learning python and chatbots
 - 💞️ I’m looking to collaborate on any thing revolutional and cool
 - 📫 How to reach me whats app @ +2348166545346
